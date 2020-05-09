@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<button>to order</button>  
+<h2>Bulled List</h2>
+<ul>
+    <li>Water</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ul>
+  <h2>Numbers List</h2>
+  <ol>
+    <li>Apple</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
+
+  <a href="https://www.youtube.com/watch?v=FHZn6706e3Q">Click here <img src="images/tea.jpg" alt = "Picture error" width="120" height="120"></a>
+  
+</body>
+</html>
