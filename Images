@@ -67,5 +67,26 @@
 
   <a href="https://www.youtube.com/watch?v=FHZn6706e3Q">Click here <img src="images/tea.jpg" alt = "Picture error" width="120" height="120"></a>
   
+  <p><a href="#C1">Jump to Chapter 1</a></p>
+<p><a href="#C10">Jump to Chapter 3</a></p>
+
+<h2 id="C1">Chapter 1</h2>
+<p>Beautiful mind</p>
+
+<h2>Chapter 2</h2>
+<p>Beautiful world</p>
+
+<h2 id="C3">Chapter 3</h2>
+<p>Beautiful word</p>
+
+<h2 >Chapter 4</h2>
+<p> Beautiful work</p>
+
+<h2 >Chapter 5</h2>
+<p> Beautiful work</p>
+
+<h2 >Chapter 6</h2>
+<p> Beautiful work</p>
+
 </body>
 </html>
