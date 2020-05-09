@@ -1,6 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+  <meta name="Tea">
+  <title>Tea time</title>
+
+  <link type="text/css" href="./styles.css">
+  <style>
+    h1 {color:red;}
+    p {color:blue;}
+    table, th, td {
+  border: 1px solid black;
+    }
+    </style>
+
+  </head>
 <body>
+  <h1>It's a list in red</h1>
+  <h2>It's a list in green</h2>
+  <p>In blue</p>
+  <dl>
+    <dt>Tea</dt>
+    <dd>Black hot drink</dd>
+    <dt>Milk</dt>
+    <dd>White cold drink</dd>
+  </dl>
+
+  <table>
+    <tr>
+      <th>Day</th>
+      <th>Price</th>
+      <th>Sold</th>
+    </tr>
+    <tr>
+      <td>Sunday</td>
+      <td>12</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Monday</td>
+      <td>25</td>
+      <td>3</td>
+    </tr>
+</table>
+
+  <p>
+      It's a text to read
+  </p>
+  <p>
+      Not for copy
+  </p>
+</div>
+
 <button>to order</button>  
 <h2>Bulled List</h2>
 <ul>
